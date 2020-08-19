@@ -15,7 +15,7 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yugalxd&show_icons=true&hide_border=true" />
+<img align="left" alt="yugalxd's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yugalxd&show_icons=true&hide_border=true" />
 
 
 [website]: https://yugalyadav.com
