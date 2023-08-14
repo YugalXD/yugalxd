@@ -15,8 +15,6 @@
 
 <br />
 
-<img align="left" alt="yugalxd's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yugalxd&show_icons=true&hide_border=true" />
-
 
 [website]: https://yugalyadav.com
 [twitter]: https://twitter.com/yugalxd
