@@ -1,9 +1,9 @@
 ### Hi there, I'm Yugal
 
-- 🔭 I’m currently working on Helping Malls tackle COVID-19!
+- 🔭 I’m currently working on US Healthcare
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Think Twice, Code once.
 
 ### Connect with me:
