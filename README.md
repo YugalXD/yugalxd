@@ -16,7 +16,7 @@
 
 ### Who I Am
 
-I build companies, lead engineering teams, and invest in ideas worth backing. Based in **New Delhi, India**, I've spent **13+ years** at the intersection of technology, product, and business — writing code, shipping products, and scaling ventures across **Tech & Fintech**.
+I build companies, lead engineering teams, and invest in ideas worth backing. Based in **New Delhi, India**, I've spent **15+ years** at the intersection of technology, product, and business — writing code, shipping products, and scaling ventures across **Tech & Fintech**.
 
 I'm a founder first. But I never stopped coding.
 
@@ -38,7 +38,7 @@ I'm a founder first. But I never stopped coding.
 
 ```
 Strategy        ████████████████████  Ship fast, iterate faster
-Engineering     ████████████████████  13+ years, still writing code
+Engineering     ████████████████████  15+ years, still writing code
 Leadership      ███████████████████   Built & scaled cross-functional teams
 Investing       ████████████████      Early-stage tech & fintech bets
 Product         ███████████████████   Zero to one, many times over
