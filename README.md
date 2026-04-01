@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yugal 👋</h1>
 
 <p align="center">
-  <em>Founder · Engineer · Investor · Tech & Fintech Builder · 13+ Years Shipping Products at Scale</em>
+  <em>Founder · Engineer · Investor · Tech & Fintech Builder · 15+ Years Shipping Products at Scale</em>
 </p>
 
 <p align="center">
